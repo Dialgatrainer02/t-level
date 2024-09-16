@@ -19,8 +19,8 @@ As a T level qualification, this course provides a chance for you to learn on th
     Data <br>
     Digital environments <br>
     Security <br>
-    what is a t level
-    <video src="https://www.youtube.com/watch?v=7rua65bHjMw"></video>
+    
+    <video src="https://www.youtube.com/watch?v=7rua65bHjMw">what is a t level</video>
       </p>
       <NuxtLink to="/yr2" class="btn btn-primary">click here to discover about yr2</NuxtLink><br>
       <NuxtLink to="/work_experiance" class="btn btn-primary">click here to discover about work placments</NuxtLink>
